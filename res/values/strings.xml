@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netmobo Reward App Demo</string>
+    
+    <string name="login_textview_username">Username:</string>
+    <string name="login_textview_password">Password:</string>
+    <string name="login_edittext_username"></string>
+    <string name="login_edittext_password"></string>
+    <string name="login_button_submit">Login</string>
+    <string name="login_progressdialog_message">Logging in...</string>
+        
+    <string name="products_textview_username">Name:</string>
+    <string name="products_textview_points">Points Balance:</string>
+    <string name="products_textview_products">Products:</string>
+    <string name="products_alertdialog_message">Purchase</string>
+    <string name="products_button_buy">Buy</string>
+    <string name="products_alertdialog_yes">Yes</string>
+    <string name="products_alertdialog_no">No</string>
+    <string name="products_progressdialog_message">Loading products...</string>
+    <string name="products_toast_message">Product purchase completed...</string>
+        
+    <string name="rewards_textview_username">Name:</string>
+    <string name="rewards_textview_points">Points Balance:</string>
+    <string name="rewards_textview_products">Available Rewards:</string>
+    <string name="rewards_alertdialog_message">Claim reward</string>
+    <string name="rewards_button_buy">Claim</string>
+    <string name="rewards_alertdialog_yes">Yes</string>
+    <string name="rewards_alertdialog_no">No</string>
+    <string name="rewards_progressdialog_message">Loading rewards...</string>
+    <string name="rewards_toast_msg_success">Reward claim completed.</string>
+    <string name="rewards_toast_msg_fail">Insufficient points to claim reward.</string>
+    
+    <string name="history_textview_username">Name:</string>
+    <string name="history_textview_points">Points Balance:</string>
+    <string name="history_textview_history">Points History:</string>
+    <string name="history_textview_headerdate">Date</string>
+    <string name="history_textview_headeritem">Item</string>
+    <string name="history_textview_headercost">Points</string>
+    <string name="history_progressdialog_message">Loading purchase history...</string>
+        
+    <string name="_menu_products">Earn Points</string>
+    <string name="_menu_rewards">Claim Rewards</string>
+    <string name="_menu_history">Points History</string>
+    <string name="_menu_logout">Logout</string>
+</resources>
+
